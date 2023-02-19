@@ -1,4 +1,4 @@
-# H1 Hi I'm Manish (:
+# Hi I'm Manish (:
 
 I am a Software Developer specializing in front end web technologies.
 
