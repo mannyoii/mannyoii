@@ -13,3 +13,8 @@ I am a Software Developer specializing in front end web technologies.
 - Semantic html
 - Javascript / ES6
 - CSS
+
+## Technologies & Tools
+
+- Linux
+- JavaScript
