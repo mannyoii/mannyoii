@@ -19,3 +19,7 @@
 - Linux
 - JavaScript
 - React(Learning)
+
+## GitHub Stats
+
+[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannyoii)](https://github.com/mannyoii/)
