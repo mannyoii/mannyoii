@@ -1,4 +1,6 @@
-# Hi I'm Manish (:
+### Hi I'm Manish (:
+
+## [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish--mehra/)
 
 <!-- I am a Software Developer specializing in front end web technologies. -->
 
