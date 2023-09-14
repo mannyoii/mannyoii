@@ -17,7 +17,7 @@
 
 - HTML5, CSS3, JavaScript (ES6), React.js, Web accessibility, Responsive design, Linux Scripting
 
-![Codewars Badge](https://www.codewars.com/users/mannyoii/badges/small)
+![badge](https://www.codewars.com/users/mannyoii/badges/large)
 
 ## GitHub Stats
 
