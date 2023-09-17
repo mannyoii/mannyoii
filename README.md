@@ -13,7 +13,7 @@
 
 <!-- <p>My primary skills include:</p> -->
 
-- HTML5, CSS3, JavaScript (ES6), React.js, Web accessibility, Responsive design, Linux Scripting
+- HTML5, CSS3, JavaScript (ES6+), React.js, Web accessibility, Responsive design, Linux Scripting
 
 [![Codewars Badge](https://www.codewars.com/users/mannyoii/badges/small)](https://www.codewars.com/users/mannyoii)
 
