@@ -1,7 +1,6 @@
-### Hi I'm Manish :)
+<!-- ### Hi I'm Manish :) -->
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish--mehra/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishmehra212@gmail.com)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A8DC&width=435&lines=Hi%2C+I'm+Manish!" alt="Typing SVG" /></a>
 
 ---
 
@@ -18,6 +17,9 @@
 - HTML5, CSS3, JavaScript (ES6+), React.js, Web accessibility, Responsive design, Linux Scripting
 
 [![Codewars Badge](https://www.codewars.com/users/mannyoii/badges/small)](https://www.codewars.com/users/mannyoii)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish--mehra/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishmehra212@gmail.com)
 
 ### GitHub Stats
 
