@@ -11,13 +11,13 @@
 - You can contact me at [mannyoii@protonmail.com](mailto:mannyoii@protonmail.com)
 - I'm currently learning React -->
 
-## Tech I work with:
+### Tech I work with:
 
 <!-- <p>My primary skills include:</p> -->
 
 - HTML5, CSS3, JavaScript (ES6+), React.js, Web accessibility, Responsive design, Linux Scripting
 
-## GitHub Stats
+### GitHub Stats
 
 [![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannyoii)](https://github.com/mannyoii/)
 
