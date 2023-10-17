@@ -21,4 +21,6 @@
 
 [![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannyoii)](https://github.com/mannyoii/)
 
+### Codewars
+
 [![Codewars Badge](https://www.codewars.com/users/mannyoii/badges/small)](https://www.codewars.com/users/mannyoii)
