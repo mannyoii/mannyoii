@@ -15,7 +15,7 @@
 
 <!-- <p>My primary skills include:</p> -->
 
-- HTML5, CSS3, JavaScript (ES6+), React.js, Node.js Web accessibility, Responsive design, Linux Scripting
+- HTML5, CSS3, JavaScript (ES6+), React.js, Node.js, Web accessibility, Responsive design, Linux Scripting
 
 ### GitHub Stats
 
